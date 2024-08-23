@@ -36,6 +36,6 @@ Data Preparation and Normalization
 
 Used Python libraries such as Pandas, NumPy, and Matplotlib to preprocess and normalize data, ensuring the accuracy and reliability of predictions.
 View the Notebook
-You can view the complete notebook on Kaggle: Stock Market Analysis and ARIMA Time Series Prediction
+You can view the complete notebook on Kaggle: Stock Market Analysis and ARIMA Time Series Prediction https://www.kaggle.com/code/shubhkamnapandey/notebook77c9cb56c2
 
 
